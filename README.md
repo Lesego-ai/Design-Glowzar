@@ -1,6 +1,6 @@
 # Glowzar Skin Care - design work
 
-# [Live preview](https://lesego-ai.github.io/Design-Glowzar/)
+**[Live preview](https://lesego-ai.github.io/Design-Glowzar/)**
 
 Brand identity, product labelling, print collateral and merchandise for a skincare range, done end to
 and solo: mark and colour system, four product labels, pamphlets, product pages, business cards and
