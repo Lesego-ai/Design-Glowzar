@@ -29,6 +29,3 @@ re-encoded at quality 88.
 | Colour mode | 8-bit sRGB throughout |
 | Brand colour | `#9A1C89`, from the project's own colour-code note |
 | Folder measured | 229 files, 1.6 GB across seven folders (masters, exports, labels, merch) |
-
-**Open question, deliberately left open:** trim sizes and finishing (fold, bleed, stock) are not
-recoverable from the exported PNGs, so no print-finishing claim is made here.
