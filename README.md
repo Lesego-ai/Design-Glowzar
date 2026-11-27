@@ -22,7 +22,7 @@ flattened, resized output is published.
 ## Process
 
 The working archive holds the full revision sequence - the pamphlet through versions 1 to 6 - plus the
-logo masters, label sets and merchanditure artwork. Two states of the pamphlet are published here
+logo masters, label sets and merchandise artwork. Two states of the pamphlet are published here
 because they show the substantive change: the palette moved from black-and-white marble to the brand
 magenta, photography was re-cropped into circles, pricing moved up the page, and the call to action
 became a shaped panel rather than a line of text.
