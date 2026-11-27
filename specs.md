@@ -1,4 +1,4 @@
-# Specifications — measured from the files
+# Specifications - measured from the files
 
 Figures below were read from the files, not recalled. Anything not measurable from an artefact is left
 as a question rather than guessed.
@@ -24,7 +24,7 @@ re-encoded at quality 88.
 
 | Item | Measured |
 |---|---|
-| Pamphlet / collateral pages | **2480 × 3508 px — A4 at 300 ppi** |
+| Pamphlet / collateral pages | **2480 × 3508 px - A4 at 300 ppi** |
 | Per-product pages | 2764 × 3450 px |
 | Colour mode | 8-bit sRGB throughout |
 | Brand colour | `#9A1C89`, from the project's own colour-code note |
