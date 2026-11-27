@@ -7,7 +7,7 @@ budget, not a brand-system engagement.
 **What was designed, solo.** The mark and its colour system; front labels for four product lines
 (Brightening Cream, Carrot Oil, Dark Inner Thighs Oil, Stretch Marks Oil) in multiple pack sizes;
 per-product pages carrying benefits copy against product photography; a two-sided pamphlet for print;
-business cards; and merchanditure artwork.
+business cards; and merchandise artwork.
 
 **The decisions that matter.**
 
