@@ -25,11 +25,3 @@ business cards; and merchanditure artwork.
   Honest about that: sRGB is right for high-street printing and screen, not for a separated offset
   job, and the work was specified for the print route actually used.
 
-**Contact details, and why some files are missing.** Phone numbers, messenger buttons and QR codes were
-removed or covered before publication. **`Glowzar Banking Details.png` is a commercial document, not a
-design piece, and was excluded outright**, as were the QR-bearing files: a code that still scans is not
-a redaction. The card reverse keeps its shaped call-to-action panel with the number inside it covered,
-which hides the number without wrecking the design.
-
-**Not claimed.** Print quantities, distribution, sales effect, or whether any version is still in use.
-Publication of this work as portfolio material was agreed with the client before the work was packaged.
