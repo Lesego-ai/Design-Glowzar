@@ -13,7 +13,7 @@ flattened, resized output is published.
 
 | Path | What it is |
 |---|---|
-| `index.html` | The showcase page - deploy as the repository home (see `PUBLISH.md`). |
+| `index.html` |  |
 | `selected/` | 7 finished pieces: four per-product pages, the master pamphlet, and both faces of the business card. |
 | `process/` | 2 states of the same pamphlet, showing how the design moved between versions. |
 | `specs.md` | Measured sizes, colour code, tooling and print setup. |
