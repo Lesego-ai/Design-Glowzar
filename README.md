@@ -1,4 +1,6 @@
-# Glowzar Skin Care — design work
+# Glowzar Skin Care - design work
+
+# [Live preview](https://lesego-ai.github.io/Design-Glowzar/)
 
 Brand identity, product labelling, print collateral and merchandise for a skincare range, done end to
 and solo: mark and colour system, four product labels, pamphlets, product pages, business cards and
@@ -11,7 +13,7 @@ flattened, resized output is published.
 
 | Path | What it is |
 |---|---|
-| `index.html` | The showcase page — deploy as the repository home (see `PUBLISH.md`). |
+| `index.html` | The showcase page - deploy as the repository home (see `PUBLISH.md`). |
 | `selected/` | 7 finished pieces: four per-product pages, the master pamphlet, and both faces of the business card. |
 | `process/` | 2 states of the same pamphlet, showing how the design moved between versions. |
 | `specs.md` | Measured sizes, colour code, tooling and print setup. |
@@ -19,7 +21,7 @@ flattened, resized output is published.
 
 ## Process
 
-The working archive holds the full revision sequence — the pamphlet through versions 1 to 6 — plus the
+The working archive holds the full revision sequence - the pamphlet through versions 1 to 6 - plus the
 logo masters, label sets and merchanditure artwork. Two states of the pamphlet are published here
 because they show the substantive change: the palette moved from black-and-white marble to the brand
 magenta, photography was re-cropped into circles, pricing moved up the page, and the call to action
